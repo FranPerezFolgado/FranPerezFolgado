@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Fran! I work as a Backend Developer. 
+I'm Fran! I work as a Backend Developer. <br>
 🔭 I’m currently working at Belike Software as a Backend Developer<br>🌱 I’m currently learning Javascript, React, Node and Python<br>
 
 
